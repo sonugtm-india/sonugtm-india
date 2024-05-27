@@ -6,7 +6,7 @@ Software Developer
 
 I love Code !!
 
-* 🌍  I'm based in Kanpur
+* 🌍  I'm based in Noida
 * ✉️  You can contact me at [sonugtm.india@gmail.com](mailto:sonugtm.india@gmail.com)
 * 🧠  I'm learning ML & AI
 
